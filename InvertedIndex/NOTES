@@ -1,0 +1,5 @@
+1. sort and compare, some not match, strange phenomenon
+WARN:word may contain special case like ":", then split will be error!
+use more special char or using pair
+the char { can not be used...
+2. if reduce tasks>2
